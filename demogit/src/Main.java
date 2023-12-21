@@ -31,7 +31,8 @@ public class Main {
                 return false; // Not a prime number
             }
         }
-
+        System.out.println("fdfsfadfaf");
         return true; // Prime number
+
     }
 }
